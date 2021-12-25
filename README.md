@@ -10,7 +10,10 @@ U.S Bikeshare Data Analysis
 This project interacts with the user on the terminal and display data which can be filtered by city, and/or by month and/or by day and analysis the data based on the filtered result set by user.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Knowledge
+datacamp.com
