@@ -1,3 +1,4 @@
+#Import libraries
 import time
 import pandas as pd
 import numpy as np
@@ -249,7 +250,7 @@ def trip_duration_stats(df):
     start_time = time.time()
     # TO DO: display total travel time
     total_travel_time=df['Trip Duration'].sum()
-    print('The total travel time is:' + str(total_travel_time))
+    print('The total travel time is:{}'.format(total_travel_time))
     # TO DO: display mean travel time
     mean_travel_time=df['Trip Duration'].mean()
     print('The mean travel time is:' + str(mean_travel_time))
