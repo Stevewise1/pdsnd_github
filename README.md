@@ -7,7 +7,7 @@
 U.S Bikeshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project interacts with the user on the terminal and display data which can be filtered by city, and/or by month and/or by day and analysis the data based on the filtered result set by user.
 
 ### Files used
 Include the files used
